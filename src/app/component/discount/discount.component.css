@@ -1,0 +1,28 @@
+.coupon-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.coupon {
+  border: 5px dotted rgb(172, 177, 172);
+  width: 20%;
+  border-radius: 15px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+.container {
+  padding: 2px 16px;
+  background-color: white;
+  text-align: center;
+}
+
+.promo {
+  background: rgb(202, 201, 201);
+  padding: 3px;
+}
+
+.expire {
+  color: red;
+}

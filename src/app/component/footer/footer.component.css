@@ -1,0 +1,28 @@
+.container{  
+  margin-top: 20px;
+
+}
+footer ul li a {
+  color: white;
+}
+footer {
+  background: rgb(31, 30, 30);
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  
+}
+footer a{
+  align-items: center;
+  justify-content: center;
+}
+footer li a {
+  color: #313131;
+  font-weight: 500px;
+  text-decoration: none;
+}
+footer ul li {
+  display: inline-block;
+  font-size: 14px;
+  padding: 10px 10px;
+}
